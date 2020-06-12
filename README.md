@@ -4,10 +4,9 @@
  Will help detect number of faces, color contrast and more information can be computed depending of the data fetched. 
  *****
  TODO 
-- refresh for backend
-- talk to Akshat for help on postre database 
-- npm lib connect to clarifai
-- see if the updated api have calls of location on image 
+- refresh for backend -- look into local server
+     - talk to Akshat for help on postre database 
+- see if the updated api have old calls 
 
  *NOTES* 
  
